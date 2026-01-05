@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there, I'm Britny 👋
 
-<!--
-**BritCoin09/BritCoin09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub!  
+I'm a data science student blending analytical thinking with creativity to make data feel human, intuitive, and impactful.
 
-Here are some ideas to get you started:
+I love:
+- Finding patterns in messy data  
+- Building clean visual stories  
+- Solving problems with Python & SQL  
+- Designing projects that feel polished and intentional  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Languages:** Python, SQL  
+**Tools:** Pandas, NumPy, Scikit-learn, Tableau, Power BI  
+**Other:** Git, GitHub, Advanced Spreadsheets, HTML/CSS  
+
+## 🚀 Projects I'm Proud Of
+- **OilyGiant Analysis** — Identified the most profitable region using predictive modeling and risk evaluation.
+- **Customer Churn Project** — Built insights that support targeted retention strategies.
+- **Zomato EDA** — Explored restaurant trends and visualized key patterns.
+
+## 🌱 Currently Learning
+- Machine learning model tuning  
+- More advanced SQL  
+- Building stronger project documentation  
+
+## 📬 Let’s Connect
+- LinkedIn: *your link here*
+- Email: britny.chambers@proton.me
