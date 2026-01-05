@@ -25,5 +25,5 @@ I love:
 - Building stronger project documentation  
 
 ## 📬 Let’s Connect
-- LinkedIn: *your link here*
+- LinkedIn: www.linkedin.com/in/britny-chambers
 - Email: britny.chambers@proton.me
