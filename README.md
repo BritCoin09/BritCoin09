@@ -13,9 +13,9 @@ I love:
 - Designing projects that feel polished and intentional  
 
 ## 🛠 Tech Stack
-**Languages:** Python, SQL  
-**Tools:** Pandas, NumPy, Scikit-learn, Tableau, Power BI  
-**Other:** Git, GitHub, Advanced Spreadsheets, HTML/CSS  
+- **Languages:** Python, SQL  
+- **Tools:** Pandas, NumPy, Scikit-learn, Tableau, Power BI  
+- **Other:** Git, GitHub, Advanced Spreadsheets, HTML/CSS  
 
 ## 🚀 Projects I'm Proud Of
 - **Sweet Lift Taxi** — Time Series Forecasting
