@@ -22,10 +22,10 @@ I love:
 - **OilyGiant** — Regression + Bootstrapping Risk Analysis
 - **Megaline** — Customer Churn Classification
 
-## 🌱 Currently Learning
-- Machine learning model tuning  
-- More advanced SQL  
-- Building stronger project documentation  
+## 🌱 Currently Leveling Up In
+- Fine‑tuning ML models for stronger, more reliable results
+- Writing clearer, more structured, recruiter‑ready documentation
+- Designing projects that show both technical depth and business impact  
 
 ## 📬 Let’s Connect
 - LinkedIn: www.linkedin.com/in/britny-chambers
