@@ -9,7 +9,7 @@ I'm a data scientist blending analytical thinking with creativity to make data f
 I love:
 - Finding patterns in messy data  
 - Building clean visual stories  
-- Solving problems with Python & SQL  
+- Solving problems with Python & clear reasoning
 - Designing projects that feel polished and intentional  
 
 ## 🛠 Tech Stack
