@@ -18,9 +18,9 @@ I love:
 **Other:** Git, GitHub, Advanced Spreadsheets, HTML/CSS  
 
 ## 🚀 Projects I'm Proud Of
-- **OilyGiant Analysis** — Identified the most profitable region using predictive modeling and risk evaluation.
-- **Customer Churn Project** — Built insights that support targeted retention strategies.
-- **Zomato EDA** — Explored restaurant trends and visualized key patterns.
+- **Sweet Lift Taxi** — Time Series Forecasting
+- **OilyGiant** — Regression + Bootstrapping Risk Analysis
+- **Megaline** — Customer Churn Classification
 
 ## 🌱 Currently Learning
 - Machine learning model tuning  
