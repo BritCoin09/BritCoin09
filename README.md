@@ -1,4 +1,4 @@
-# Hey there, I'm Britny 👋
+# Hey there, I'm Britny 🖖🏼
 
 Welcome to my corner of GitHub!  
 I'm a data scientist blending analytical thinking with creativity to make data feel human, intuitive, and impactful.
