@@ -3,7 +3,7 @@
 Welcome to my corner of GitHub!  
 I'm a data scientist blending analytical thinking with creativity to make data feel human, intuitive, and impactful.
 
-🔍 Currently open to Data Scientist roles
+🔍 **Currently open to Data Scientist roles**
 
 
 I love:
