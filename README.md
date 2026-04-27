@@ -15,7 +15,7 @@ I love:
 Python, SQL, Pandas, NumPy, Scikit‑learn, Machine Learning Models (linear, tree‑based, boosting, NLP), Matplotlib, Seaborn, Jupyter, Git/GitHub 
 
 ## 🚀 Projects I'm Proud Of
-- **IMDB Sentiment Analysis — NLP + TF‑IDF + LightGBM (2026)
+- **IMDB Sentiment Analysis** — NLP + TF‑IDF + LightGBM (2026)
 - **Sweet Lift Taxi** — Time Series Forecasting (2025)
 - **OilyGiant** — Regression + Bootstrapping Risk Analysis (2025)
 - **Megaline** — Customer Churn Classification (2025)
