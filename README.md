@@ -5,7 +5,7 @@ I'm a data scientist blending analytical thinking with clean design, clear reaso
 
 🔍 **Currently open to Data Scientist roles**
 
-I love:
+**I love:**
 - Finding patterns in messy data  
 - Building clean visual stories  
 - Solving problems with Python & clear reasoning
