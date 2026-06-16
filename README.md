@@ -1,6 +1,7 @@
 # Britny Chambers · Data Scientist ✨🧬
 
-Welcome to my corner of GitHub!  
+**Welcome to my corner of GitHub!** 
+
 I'm a data scientist blending analytical thinking with clean design, clear reasoning, and intentional project structure. I build models, visual stories, and end‑to‑end workflows that make data feel human, intuitive, and actionable.
 
 🔍 **Currently open to Data Scientist roles**
