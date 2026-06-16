@@ -26,6 +26,14 @@ Python, SQL, Pandas, NumPy, Scikit‑learn, Machine Learning Models (linear, tre
 - Clean, recruiter‑ready documentation
 - Designing projects with both technical depth and business impact
 
+## 🎥 Project Walkthrough Videos
+
+• **Full Project Walkthrough**  
+  [Watch on YouTube](https://www.youtube.com/watch?v=iBlmUMO7Ltc)
+
+• **Template Notebook Walkthrough**  
+  [Watch on YouTube](https://youtu.be/iBlmUMO7Ltc?si=HvXmGff6cJEZS5PH)
+
 ##  📨 Let’s Connect
 - LinkedIn: www.linkedin.com/in/britny-chambers
 - Email: britny.chambers@proton.me
