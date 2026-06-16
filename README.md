@@ -27,13 +27,15 @@ Python, SQL, Pandas, NumPy, Scikit‑learn, Machine Learning Models (linear, tre
 - Clean, recruiter‑ready documentation
 - Designing projects with both technical depth and business impact
 
-## 🎥  fertilizer-optimization Project Walkthrough Videos
+## 🎥 Fertilizer Optimization Project Walkthrough Videos
 
 • **Full Project Walkthrough**  
-  [Watch on YouTube](https://www.youtube.com/watch?v=iBlmUMO7Ltc)
+  [Watch on YouTube](https://www.youtube.com/watch?v=gJ0e2b01sNo)
 
 • **Template Notebook Walkthrough**  
-  [Watch on YouTube](https://youtu.be/iBlmUMO7Ltc?si=HvXmGff6cJEZS5PH)
+  [Watch on YouTube](https://www.youtube.com/watch?v=iBlmUMO7Ltc)
+
+
 
 ##  📨 Let’s Connect
 - LinkedIn: www.linkedin.com/in/britny-chambers
