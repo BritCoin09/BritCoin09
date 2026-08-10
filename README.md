@@ -1,6 +1,6 @@
 # Britny Chambers · Data Scientist
 
-**Welcome to my corner of GitHub where Humanity + Ecology + Insight collide with intention!** 🌿 
+**Welcome to my corner of GitHub where Humanity + Ecology + Insight collide with intention!** 💚
 
 I blend analytical thinking with clean design, clear reasoning, and intentional project structure. I build structured, aesthetic workflows that turn raw data into stories people can actually feel and understand.
 
