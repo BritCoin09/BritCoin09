@@ -1,8 +1,8 @@
-# Britny Chambers · Data Scientist ✨🧬
+# Britny Chambers · Data Scientist
 
-**Welcome to my corner of GitHub!**  👩🏼‍💻
+**Welcome to my corner of GitHub where Humanity + Ecology + Insight collide with intention!** 🌿 
 
-I'm a data scientist blending analytical thinking with clean design, clear reasoning, and intentional project structure. I build models, visual stories, and end‑to‑end workflows that make data feel human, intuitive, and actionable.
+I blend analytical thinking with clean design, clear reasoning, and intentional project structure. I build structured, aesthetic workflows that turn raw data into stories people can actually feel and understand.
 
 🔍 **Currently open to Data Scientist roles**
 
@@ -12,17 +12,17 @@ I'm a data scientist blending analytical thinking with clean design, clear reaso
 - Solving problems with Python & clear reasoning
 - Designing projects that feel polished and intentional  
 
-## 🧬 Tech Stack
+## 👩🏼‍💻 Tech Stack
 Python, SQL, Pandas, NumPy, Scikit‑learn, Machine Learning Models (linear, tree‑based, boosting, NLP), Matplotlib, Seaborn, Jupyter, Git/GitHub 
 
-## 🛰️ Projects I'm Proud Of
+## ✨ Projects I'm Proud Of
 - **Gut Health & Probiotics Trend Predictor** — Google Trends + Prophet Forecasting (2026)
 - **Fertilizer Optimization** — Sustainable Crop Modeling + ML (2026)
 - **IMDB Sentiment Analysis** — NLP + TF‑IDF + LightGBM (2026)
 - **Sweet Lift Taxi** — Time Series Forecasting (2025)
 - **Megaline** — Customer Churn Classification (2025)
 
-## 🧪 Currently Leveling Up In
+## ⚡ Currently Leveling Up In
 - NLP + text modeling
 - Model tuning and evaluation
 - Clean, recruiter‑ready documentation
