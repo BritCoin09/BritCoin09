@@ -16,6 +16,7 @@ I'm a data scientist blending analytical thinking with clean design, clear reaso
 Python, SQL, Pandas, NumPy, Scikit‑learn, Machine Learning Models (linear, tree‑based, boosting, NLP), Matplotlib, Seaborn, Jupyter, Git/GitHub 
 
 ## 🛰️ Projects I'm Proud Of
+- **Gut Health & Probiotics Trend Predictor** — Google Trends + Prophet Forecasting (2026)
 - **Fertilizer Optimization** — Sustainable Crop Modeling + ML (2026)
 - **IMDB Sentiment Analysis** — NLP + TF‑IDF + LightGBM (2026)
 - **Sweet Lift Taxi** — Time Series Forecasting (2025)
