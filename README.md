@@ -13,20 +13,19 @@ I blend analytical thinking with clean design, clear reasoning, and intentional 
 - Designing projects that feel polished and intentional  
 
 ## 👩🏼‍💻 Tech Stack
-Python, SQL, Pandas, NumPy, Scikit‑learn, Machine Learning Models (linear, tree‑based, boosting, NLP), Matplotlib, Seaborn, Jupyter, Git/GitHub 
+Python, SQL, Pandas, NumPy, Scikit‑learn, Time Series Forecasting (Prophet, ARIMA), Environmental & Agricultural Data Modeling, NLP (TF‑IDF, LightGBM), Matplotlib, Seaborn, Jupyter, Git/GitHub
+
 
 ## ✨ Projects I'm Proud Of
+- **Bee & Flower Pollination Dataset** (Self‑Created) — Environmental Data Collection + EDA + Visualization (2026)
 - **Gut Health & Probiotics Trend Predictor** — Google Trends + Prophet Forecasting (2026)
 - **Fertilizer Optimization** — Sustainable Crop Modeling + ML (2026)
-- **IMDB Sentiment Analysis** — NLP + TF‑IDF + LightGBM (2026)
-- **Sweet Lift Taxi** — Time Series Forecasting (2025)
-- **Megaline** — Customer Churn Classification (2025)
 
 ## ⚡ Currently Leveling Up In
-- NLP + text modeling
-- Model tuning and evaluation
-- Clean, recruiter‑ready documentation
-- Designing projects with both technical depth and business impact
+- Environmental + agricultural data modeling
+- Time series forecasting (Prophet, ARIMA, trends)
+- Building self‑created datasets for real‑world problems
+- Designing projects with both technical depth and sustainability impact
 
 ## 🎥 Fertilizer Optimization Project Walkthrough Videos
 
