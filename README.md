@@ -7,10 +7,10 @@ I blend analytical thinking with clean design, clear reasoning, and intentional 
 🔍 **Currently open to Data Scientist roles**
 
 **I love:**
-- Finding patterns in messy data  
-- Building clean visual stories  
-- Solving problems with Python & clear reasoning
-- Designing projects that feel polished and intentional  
+- Creating my own datasets from real‑world problems
+- Turning environmental + health data into clear, intuitive stories
+- Building models that feel meaningful, not just technical
+- Designing projects that look polished, intentional, and human
 
 ## 👩🏼‍💻 Tech Stack
 Python, SQL, Pandas, NumPy, Scikit‑learn, Time Series Forecasting (Prophet, ARIMA), Environmental & Agricultural Data Modeling, NLP (TF‑IDF, LightGBM), Matplotlib, Seaborn, Jupyter, Git/GitHub
